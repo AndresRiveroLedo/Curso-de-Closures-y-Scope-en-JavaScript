@@ -1,3 +1,4 @@
+# Curso de Clousure y Scope en JavaScript
 # Video 2 - Qué es el Scope y cómo funciona el Global Scope
 
  `Scope`: Es el alcance que va a tener una variable dentro del código. En otras palabras, el Scope se encargará de decidir a que bloques de código va a acceder una variable.
